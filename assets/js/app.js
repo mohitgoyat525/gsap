@@ -33,7 +33,7 @@ gsap.from("#box-two", {
 });
 
 
- gsap.registerPlugin(ScrollTrigger);
+
 
  gsap.fromTo(
    "#text",
